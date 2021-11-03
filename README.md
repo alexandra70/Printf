@@ -3,7 +3,7 @@ Tema 1 - printf
 
   **Se va implemementa în limbajul de programare C funcția
 int iocla_printf(const char *format, …), care acceptă specificatorii
-listați mai jos(*), oferind comportament similar cu printf din 
+listați mai jos, oferind comportament similar cu printf din 
 biblioteca standard C.**
 
   **Primul argument pe care il primeste printf este - format stringul,
